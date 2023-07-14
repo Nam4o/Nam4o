@@ -2,7 +2,7 @@
 2023/07/05 부터 SSAFY 10기 python 과정을 이수중입니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nam4o)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonghw4n)](https://solved.ac/jeonghw4n/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goleabada)](https://solved.ac/jeonghw4n/)
 ![Python](https://img.shields.io/badge/Python-074522.svg?&style=for-the-badge&logo=Python&logoColor=074522)
 
 #학업
