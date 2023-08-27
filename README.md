@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nam4o)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goleabada)](https://solved.ac/jeonghw4n/)
-[![Python]((https://img.shields.io/badge/Python-white?logo=Python)]
+[![Python]((https://img.shields.io/badge/Python-white?logo=Python))]
 
 #학업
 
