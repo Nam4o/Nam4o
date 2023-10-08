@@ -14,7 +14,8 @@
 Web, API, AI, etc
 
 #기술스택
-x
+(~ing)
+Python / Java
 
 #contact
 - jeonghw4n@naver.com / ssafy.jeonghw4n@gmail.com
