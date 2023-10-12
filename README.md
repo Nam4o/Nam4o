@@ -11,7 +11,7 @@
 #자격증
 
 #IT관심사
-Web, API, AI, etc
+Web, API, AI, 핀테크, etc
 
 #기술스택
 (~ing)
