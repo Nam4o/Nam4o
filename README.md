@@ -15,7 +15,7 @@ Web, API, AI, 핀테크, etc
 
 #기술스택
 (~ing)
-Python / Java / Django / Vue / Javascript
+Python / Java / Django / Vue / Javascript / HTML / CSS
 
 #contact
 - jeonghw4n@naver.com / ssafy.jeonghw4n@gmail.com
