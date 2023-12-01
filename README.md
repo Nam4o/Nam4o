@@ -35,7 +35,7 @@
 #자격증
 
 #IT관심사
-Web, API, AI, 핀테크, etc
+Web, API, 핀테크, etc
 
 #contact
 - jeonghw4n@naver.com / ssafy.jeonghw4n@gmail.com
