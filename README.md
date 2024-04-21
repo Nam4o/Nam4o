@@ -1,11 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ffd9e5,75:ccf2ee&text=Jeonghwan's%20Github&reversal=false&textBg=false&animation=fadeIn&&fontColor=9d9dad">
+<header>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ffd9e5,75:ccf2ee&text=Jeonghwan's%20Github&reversal=false&textBg=false&animation=fadeIn&&fontColor=9d9dad">
 안녕하세요, 저는 이번에 python으로 개발에 입문한 박정환 입니다.
+<br>
 2023/07/05 부터 2023/12 SSAFY 10기 python 과정을 이수하였습니다.
-
+<br>
+<hr width=100%>
+</header>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nam4o)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goleabada)](https://solved.ac/jeonghw4n/)
-
 
 <div align=start><h1>📚 STACKS</h1></div>
 
@@ -40,7 +43,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/gerrit-EEEEEE?style=for-the-badge&logo=&logoColor=white">
 </div>
-<hr>
+<hr width=100%>
 #학업
 한밭대학교 신소재공학과 학사 (23.02)
 
